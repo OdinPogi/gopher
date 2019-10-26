@@ -1,6 +1,12 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/OdinPogi/gopher/modules/libpackage"
+)
+
+const Name = libpackage.Name
 
 func main() {
 	fmt.Println("")
@@ -12,5 +18,7 @@ func main() {
 	fmt.Println("  Correct it and re-run this program.")
 	fmt.Println("")
 	fmt.Println("  You can modify this program by tweaking `main.go`")
+	fmt.Println("")
+	fmt.Println("Name value is %s", Name)
 	fmt.Println("")
 }
