@@ -1,0 +1,5 @@
+github.com/OdinPogi/gopher v1.0.0 h1:mvm+vUBurvBZ2RDnz3UcV9CopoEkAnAB6ALqln5/NEE=
+github.com/OdinPogi/gopher/modules v0.0.0-20191026022054-e9f2bb09230c h1:i4eKuM2G/x0lsabGNMVsivopI1mvYMYRRFTL/epDJV8=
+github.com/OdinPogi/gopher/modules/submodules v0.0.0-20191026022054-e9f2bb09230c h1:8S5QsT2uw3N0BkhMxBGHFD9HVtVmlPwtVzeVRAIJaQo=
+github.com/OdinPogi/gopher/modules/submodules/b v0.1.1 h1:IBJsQS3nJURw+jQBNRDXcFAoXnWT3h/tnxjr3DDDpjU=
+github.com/OdinPogi/gopher/modules/submodules/b v0.1.1/go.mod h1:2QjAI0jswVcNbV1pg2U0MxyG/0a2Hz8uyjM20bvJQaA=
