@@ -1,3 +1,3 @@
 package abc
 
-func GetDEF() sting { return "DEF" }
+func GetDEF() string { return "DEF" }
